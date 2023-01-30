@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ordercase_002">
+  <listeners>
+    <listener class-name="com.elong.test.japi.testng.ElongTestListener"/>
+  </listeners>
+  <test name="step_001">
+    <classes>
+      <class name="com.elong.test.japi.recipes.greetingbusiness.greetinggetservice.GreetingGetTest">
+        <methods>
+          <include name="test_GreetingBusiness_GreetingGetService_GreetingGet_GreetingGet_001"/>
+        </methods>
+      </class> <!-- com.elong.test.japi.recipes.greetingbusiness.greetinggetservice.GreetingGetTest -->
+    </classes>
+  </test> <!-- step_001 -->
+  <test name="step_002">
+    <classes>
+      <class name="com.elong.test.japi.recipes.greetingbusiness.greetinggetservice.GreetingGetTest">
+        <methods>
+          <include name="test_GreetingBusiness_GreetingGetService_GreetingGet_GreetingGet_001"/>
+        </methods>
+      </class> <!-- com.elong.test.japi.recipes.greetingbusiness.greetinggetservice.GreetingGetTest -->
+    </classes>
+  </test> <!-- step_002 -->
+  <test name="step_003">
+    <classes>
+      <class name="com.elong.test.japi.recipes.greetingbusiness.greetinggetservice.GreetingGetTest">
+        <methods>
+          <include name="test_GreetingBusiness_GreetingGetService_GreetingGet_GreetingGet_001"/>
+        </methods>
+      </class> <!-- com.elong.test.japi.recipes.greetingbusiness.greetinggetservice.GreetingGetTest -->
+    </classes>
+  </test> <!-- step_003 -->
+  <test name="step_004">
+    <classes>
+      <class name="com.elong.test.japi.recipes.greetingbusiness.greetinggetservice.GreetingGetTest">
+        <methods>
+          <include name="test_GreetingBusiness_GreetingGetService_GreetingGet_GreetingGet_002"/>
+        </methods>
+      </class> <!-- com.elong.test.japi.recipes.greetingbusiness.greetinggetservice.GreetingGetTest -->
+    </classes>
+  </test> <!-- step_004 -->
+  <test name="step_005">
+    <classes>
+      <class name="com.elong.test.japi.recipes.greetingbusiness.greetingpostservice.GreetingPostTest">
+        <methods>
+          <include name="test_GreetingBusiness_GreetingPostService_GreetingPost_GreetingPost_001"/>
+        </methods>
+      </class> <!-- com.elong.test.japi.recipes.greetingbusiness.greetingpostservice.GreetingPostTest -->
+    </classes>
+  </test> <!-- step_005 -->
+</suite> <!-- ordercase_002 -->

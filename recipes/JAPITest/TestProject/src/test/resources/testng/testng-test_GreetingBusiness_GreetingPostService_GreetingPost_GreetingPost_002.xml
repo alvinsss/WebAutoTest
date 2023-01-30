@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test_GreetingBusiness_GreetingPostService_GreetingPost_GreetingPost_002">
+  <test name="step_001">
+    <classes>
+      <class name="com.elong.test.japi.recipes.greetingbusiness.greetingpostservice.GreetingPostTest">
+        <methods>
+          <include name="test_GreetingBusiness_GreetingPostService_GreetingPost_GreetingPost_002"/>
+        </methods>
+      </class> <!-- com.elong.test.japi.recipes.greetingbusiness.greetingpostservice.GreetingPostTest -->
+    </classes>
+  </test> <!-- step_001 -->
+</suite> <!-- test_GreetingBusiness_GreetingPostService_GreetingPost_GreetingPost_002 -->

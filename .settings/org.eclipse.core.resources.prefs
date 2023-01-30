@@ -1,0 +1,19 @@
+#Mon Jul 13 17:20:24 CST 2015
+eclipse.preferences.version=1
+encoding//src/com/fengjr/config/testdata.properties=UTF-8
+encoding//src/com/fengjr/pages/ManagerLoginPage.java=UTF-8
+encoding//src/com/fengjr/testcase/TCA001AddLoan_P2P.java=UTF-8
+encoding//src/com/fengjr/testcase/TCA001AddLoan_P2PTest.java=UTF-8
+encoding//src/com/fengjr/testcase/TCA099AddLoan_P2P.java=UTF-8
+encoding//src/com/fengjr/testcase/doInvestTest.java=UTF-8
+encoding//src/com/fengjr/util/LibClientManagerLogin.java=UTF-8
+encoding//src/com/fengjr/util/LibDBDataConfig.java=UTF-8
+encoding//src/com/fengjr/util/LibDataConfig.java=UTF-8
+encoding//src/com/fengjr/util/LibJDBC.java=UTF-8
+encoding//src/com/fengjr/util/LibJDBCTest.java=UTF-8
+encoding//src/com/fengjr/util/LibLogger.java=UTF-8
+encoding//src/com/fengjr/util/LibNewUserRegister.java=UTF-8
+encoding//src/com/fengjr/util/LibPlatformManagerAddP2P.java=UTF-8
+encoding//src/com/fengjr/util/LibPlatformManagerAddP2PreturnTitle.java=UTF-8
+encoding//src/com/fengjr/util/LibPlatformManagerLogin.java=UTF-8
+encoding/<project>=UTF-8

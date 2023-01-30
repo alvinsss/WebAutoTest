@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="@suite@">
+  <test name="@test@">
+    <classes>
+      <class name="com.mfexchange.Test1"/>
+      <class name="com.mfexchange.Test2"/>
+      <class name="com.mfexchange.Test3"/>
+    </classes>
+  </test>
+</suite>

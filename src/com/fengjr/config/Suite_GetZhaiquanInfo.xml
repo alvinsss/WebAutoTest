@@ -1,0 +1,11 @@
+<suite name="Suite1">
+    <test name="test1">
+	<parameter name="loanid" value="04280DA5-A8E3-4778-9313-026FABC4D7FF"/> 
+	<parameter name="zheRate" value="0.02f"/> 
+	<parameter name="currentUser" value="alvin"/> 
+
+	<classes>
+	    <class name="om.fengjr.function.GetZhaiquanInfo" />
+	    </classes>
+    </test>
+</suite>

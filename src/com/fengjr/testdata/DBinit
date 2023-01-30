@@ -1,0 +1,10 @@
+# UPDATE
+UPDATE  users set  phone_number=13611293208 ,`password`="fcbdf647ea2ae6bff9c859e0403cd219648349d27e11d9fc0304c0d681538eb4" WHERE  user_id='3618';
+UPDATE  users set phone_number="15811297594" , `password`="1b94d3fef4fc0a7b5707b761e7fbd74b8e0ebfaf14caa013c9c763ff02f85552"  WHERE  user_id='2335';
+
+
+# DELETE
+DELETE from users WHERE phone_number in (13800000000,13800000001,13500000000,13500000001,15800000000,15800000001);
+DELETE from user_upgrade WHERE userid in (select user_id from  users where phone_number=13800000001 ) ;
+DELETE from  card_infomation WHERE card_number in ('6226900716487356','6225551373096278','6226900716487352','6226900716487351');
+

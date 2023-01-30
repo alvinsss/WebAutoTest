@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test_QueryBusiness_QueryGetService_QueryGet_QueryGet_002">
+  <test name="step_001">
+    <classes>
+      <class name="com.elong.test.japi.recipes.querybusiness.querygetservice.QueryGetTest">
+        <methods>
+          <include name="test_QueryBusiness_QueryGetService_QueryGet_QueryGet_002"/>
+        </methods>
+      </class> <!-- com.elong.test.japi.recipes.querybusiness.querygetservice.QueryGetTest -->
+    </classes>
+  </test> <!-- step_001 -->
+</suite> <!-- test_QueryBusiness_QueryGetService_QueryGet_QueryGet_002 -->

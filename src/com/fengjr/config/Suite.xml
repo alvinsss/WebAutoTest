@@ -1,0 +1,9 @@
+<suite name="AutoTestAPICase">
+
+	<test name="users">
+		<classes>
+			<class name="com.fengjr.manager.TCA002AddLoan_P2P"/>
+		</classes>
+	</test>
+
+</suite>

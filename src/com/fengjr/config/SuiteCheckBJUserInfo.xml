@@ -1,0 +1,9 @@
+<suite name="FengJR_QATest">
+
+	<test name="CheckBJUserInfo">
+		<classes>
+			<class name="com.fengjr.api.CheckBJUserInfo"/>
+		</classes>
+	</test>
+
+</suite>
